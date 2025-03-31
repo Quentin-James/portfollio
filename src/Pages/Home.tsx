@@ -29,7 +29,7 @@ const Home = () => {
         {/* Hero Section */}
         <section className="text-center mb-16">
           <img
-            src="img/1727011946257.jpg"
+            src="../../public/img/144670197.png"
             alt="Profile"
             className="w-32 h-32 rounded-full mx-auto mb-4 object-cover"
           />
