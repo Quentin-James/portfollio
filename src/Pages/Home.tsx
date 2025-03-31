@@ -75,7 +75,7 @@ const Home = () => {
           {/* Right Column - Profile Image */}
           <div className="relative">
             <img
-              src="../../public/img/144670197.png"
+              src="../../public/img/428976.png"
               alt="Profile"
               className="w-full h-[400px] object-cover rounded-2xl shadow-2xl ring-4 ring-teal-400/50"
             />
